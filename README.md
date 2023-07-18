@@ -12,12 +12,15 @@
 <p>I am a Full Stack Developer with an insatiable thirst for learning and improving my skills. My objective is to build dynamic and interactive applications using the MERN Stack – MongoDB, Express.js, React and Node.js. With a focus on continuous learning, I aim to stay at forefront of the ever-evolving tech languages, ready to take new challenges and push the boundaries of what’s possible in web development.</p>
 
 ## 👨🏽‍💻 Skills
-✅ React <br>                .✅ HTML5 <br>
-✅ JavaScript <br>           .✅ Java <br>
-✅ Node.js <br>              .✅ CSS3 / Bootstrap <br>
-✅ MySql <br>                .✅ Git <br>
+✅ React <br>                
+✅ JavaScript <br>          
+✅ Node.js <br>             
+✅ MySql <br>                
 ✅ Android <br>
-
+✅ Java <br>
+✅ CSS3 / Bootstrap <br>
+✅ HTML5 <br>
+✅ Git <br>
 
 
 
