@@ -13,7 +13,7 @@
 
 ## 👨🏽‍💻 Skills
 <pre>
-  ✅ React                  ✅ JavaScript <br>
+  ✅ React                  ✅ JavaScript               ✅ Express.js <br>
   ✅ Node.js                ✅ MySql <br>
   ✅ Android                ✅ Java <br>
   ✅ HTML5                  ✅ Git <br>
