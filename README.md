@@ -1,4 +1,4 @@
-## Hi, I'm SM Hazzaz Durjoy
+# Hi, I'm SM Hazzaz Durjoy
 
 <p>
 🎓 I've graduated from Brac University with the Bachelors degree of Computer Science </br>
