@@ -22,7 +22,7 @@
 ✅ HTML5 <br>
 ✅ Git <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm-hdurjoy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm-hdurjoy&layout=compact&theme=transparent)
 
 ![Hazzaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm-hdurjoy&show_icons=true&theme=transparent)
 
