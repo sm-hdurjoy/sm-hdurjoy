@@ -17,7 +17,7 @@
   ✅ Node.js                ✅ MySql <br>
   ✅ Android                ✅ Java <br>
   ✅ HTML5                  ✅ Git <br>
-  ✅ CSS3 <br>              ✅ Bootstrap<br>
+  ✅ CSS3                   ✅ Bootstrap<br>
 </pre>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm-hdurjoy&layout=compact&theme=transparent)
