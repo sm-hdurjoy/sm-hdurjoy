@@ -14,9 +14,9 @@
 ## 👨🏽‍💻 Skills
 <pre>
   ✅ React               ✅ JavaScript            ✅ Express.js <br>
-  ✅ Node.js             ✅ MySql                 ✅ Git <br>
-  ✅ Android             ✅ Java                  ✅ Bootstrap <br>
-  ✅ HTML5               ✅ CSS3    
+  ✅ Node.js             ✅ MySql                 ✅ MongoDB <br>
+  ✅ Android             ✅ Java                  ✅ Git <br>
+  ✅ HTML5               ✅ CSS3                  ✅ Bootstrap
 </pre>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm-hdurjoy&layout=compact&theme=transparent)
