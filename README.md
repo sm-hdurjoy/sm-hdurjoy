@@ -5,3 +5,5 @@
 🚀 Like to share my knowledge </br>
 🌐 And finally on my journey to this vast tech industry that the world has to offer.
 </p>
+
+[Profile Views](https://gpvc.arturio.dev/sm-hdurjoy)
