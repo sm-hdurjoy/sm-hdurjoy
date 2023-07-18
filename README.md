@@ -13,10 +13,11 @@
 
 ## 👨🏽‍💻 Skills
 <pre>
-✅ React                  ✅ JavaScript <br>                 ✅ Git <br>
-✅ Node.js                ✅ MySql <br>                      ✅ Bootstrap <br>
-✅ Android                ✅ Java <br>
-✅ HTML5                  ✅ CSS3 <br>
+  ✅ React                  ✅ JavaScript <br>
+  ✅ Node.js                ✅ MySql <br>
+  ✅ Android                ✅ Java <br>
+  ✅ HTML5                  ✅ Git <br>
+  ✅ CSS3 <br>              ✅ Bootstrap <br>
 </pre>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm-hdurjoy&layout=compact&theme=transparent)
