@@ -22,5 +22,6 @@
 ✅ HTML5 <br>
 ✅ Git <br>
 
+![Hazzaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm-hdurjoy&show_icons=true&theme=transparent)
 
 
