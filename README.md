@@ -13,9 +13,9 @@
 
 ## 👨🏽‍💻 Skills
 <pre>
-✅ React                  ✅ JavaScript </pre><br>
-✅ Node.js                ✅ MySql </pre><br>
-✅ Android                ✅ Java </pre><br>
+✅ React                  ✅ JavaScript <br>
+✅ Node.js                ✅ MySql <br>
+✅ Android                ✅ Java <br>
 ✅ HTML5                  ✅ CSS3 / Bootstrap <br>
 ✅ Git <br>
 </pre>
