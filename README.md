@@ -12,11 +12,11 @@
 <p>I am a Full Stack Developer with an insatiable thirst for learning and improving my skills. My objective is to build dynamic and interactive applications using the MERN Stack – MongoDB, Express.js, React and Node.js. With a focus on continuous learning, I aim to stay at forefront of the ever-evolving tech languages, ready to take new challenges and push the boundaries of what’s possible in web development.</p>
 
 ## 👨🏽‍💻 Skills
-<pre>✅ React          ✅ JavaScript </pre><br>
-✅ Node.js        ✅ MySql <br>
-✅ Android        ✅ Java <br>
-✅ HTML5          ✅ CSS3 / Bootstrap <br>
-✅ Git <br>
+<pre>✅ React                  ✅ JavaScript </pre><br>
+<pre>✅ Node.js                ✅ MySql </pre><br>
+<pre>✅ Android                ✅ Java </pre><br>
+<pre>✅ HTML5                  ✅ CSS3 / Bootstrap </pre><br>
+<pre>✅ Git <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm-hdurjoy&layout=compact&theme=transparent)
 
