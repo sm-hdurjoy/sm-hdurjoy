@@ -6,4 +6,4 @@
 🌐 And finally on my journey to this vast tech industry that the world has to offer.
 </p>
 
-[Profile Views](https://gpvc.arturio.dev/sm-hdurjoy)
+![](https://komarev.com/ghpvc/?username=sh-hdurjoy)
