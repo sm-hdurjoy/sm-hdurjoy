@@ -16,7 +16,7 @@
   ✅ React               ✅ JavaScript            ✅ Express.js <br>
   ✅ Node.js             ✅ MySql                 ✅ MongoDB <br>
   ✅ Android             ✅ Java                  ✅ Git <br>
-  ✅ HTML5               ✅ CSS3                  ✅ Figma
+  ✅ HTML5               ✅ CSS3                  ✅ Figma <br>
   ✅ Firebase            ✅ Tailwind              ✅ AdobeXD
 </pre>
 
